@@ -1,4 +1,4 @@
 ## Hello, Git!
 I am trying to learn git/github and these are my first steps!
 
-testing testing
+Hello I'm adding this text from feature-branch!
